@@ -63,15 +63,4 @@ deposit_and_allocate(depositor, treasury_address, 1000);
 0x71bf35f08bbd19ce4ad558415c88e687b29318515f5da28e9455e11d656ad246
 ![alt text](image.png)
 
-## Contract Functions
 
-1. **initialize_treasury**: Sets up treasury with allocation percentages
-2. **deposit_and_allocate**: Deposits funds and automatically allocates them based on predefined rules
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Add your preferred license here]
