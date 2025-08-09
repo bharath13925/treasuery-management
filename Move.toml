@@ -1,0 +1,16 @@
+[package]
+name = "aptos-app"
+version = "1.0.0"
+authors = []
+
+[addresses]
+bharath_addr = "0x9b9399d9b2f739bc374931261be45c04f72d79d3e993337fceaeebcd8ff1662b"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
